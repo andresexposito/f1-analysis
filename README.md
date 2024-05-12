@@ -15,7 +15,7 @@ Se utilizan las siguientes librerías, por lo que será necesario tenerlas insta
 <li>Seaborn</li>
 </ul>
 
-En primer lugar, debemos abrir la carpeta F1_Analysis con nuestro IDE favorito. Esta carpeta contiene, a su vez, una carpeta llamada cache, donde se almacenará la caché de nuestro programa, y un archivo llamado FastF1.py, que es el que utilizaremos para visualizar los gráficos.
+En primer lugar, debemos abrir la carpeta <i>F1_Analysis</i> con nuestro IDE favorito. Esta carpeta contiene, a su vez, una carpeta llamada cache, donde se almacenará la caché de nuestro programa, y un archivo llamado FastF1.py, que es el que utilizaremos para visualizar los gráficos.
 
 Para inicializarlo, ejecutamos el archivo desde nuestro IDE y seguimos las instrucciones del programa, que nos solicitará una carrera y dos pilotos para realizar la comparativa. 
 
