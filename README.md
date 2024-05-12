@@ -15,7 +15,7 @@ Se utilizan las siguientes librerías, por lo que será necesario tenerlas insta
 <li>Seaborn</li>
 </ul>
 
-En primer lugar, debemos abrir la carpeta <i>F1_Analysis</i> con nuestro IDE favorito. Esta carpeta contiene, a su vez, una carpeta llamada cache, donde se almacenará la caché de nuestro programa, y un archivo llamado FastF1.py, que es el que utilizaremos para visualizar los gráficos.
+En primer lugar, debemos abrir la carpeta <i>F1_Analysis</i> con nuestro IDE favorito. Esta carpeta contiene, a su vez, una carpeta llamada  <i>cache </i>, donde se almacenará la caché de nuestro programa, y un archivo llamado  <i>FastF1.py </i>, que es el que utilizaremos para visualizar los gráficos.
 
 Para inicializarlo, ejecutamos el archivo desde nuestro IDE y seguimos las instrucciones del programa, que nos solicitará una carrera y dos pilotos para realizar la comparativa. 
 
@@ -24,7 +24,7 @@ Si no sabemos los circuitos, países o pilotos disponibles, hay una serie de com
 Una vez introducidos estos datos, nos irá mostrando los gráficos uno a uno. Para pasar al siguiente, únicamente debemos cerrar la ventana del gráfico y automáticamente aparecerá el siguiente.
 
 ## -	Google Colab
-Ejecutamos la primera celda para instalar FastF1.
+Ejecutamos la primera celda para instalar  <i>FastF1 </i>.
 
 Una vez instalado, ejecutamos la segunda celda y seguimos las instrucciones del terminal situado debajo de la celda, donde nos solicitará una carrera y dos pilotos.
 
